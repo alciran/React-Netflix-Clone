@@ -10,8 +10,8 @@ Visual clone of Netflix home page with React Js using [TMDB](https://www.themovi
 
 ## Screenshots
 
-![Screenshot1](/src/assets/page001.png?raw=true "Desscrição da aplicação.")
+![Second Screenshot](/src/assets/page001.png?raw=true "First Screenshot.")
 
-<br><br>
+<br>
 
-![Screenshot1](/src/assets/page002.png?raw=true "Desscrição da aplicação.")
+![Second Screenshot](/src/assets/page002.png?raw=true "Second Screenshot..")
